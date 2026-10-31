@@ -10,6 +10,9 @@
 
 **Русская версия → [README.ru.md](README.ru.md)**
 
+> The window UI is currently in Russian (the CLI output too); an English locale is
+> the next thing on the list.
+
 A small app (and CLI) that reads the SMC battery telemetry through IORegistry and
 shows live power flow: what the power adapter gives the Mac, what goes into the
 battery, what the system consumes — and tells you straight when the adapter is
