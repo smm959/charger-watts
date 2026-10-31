@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# build artifacts
+ChargerWatts.app/
+assets/AppIcon.icns
+assets/AppIcon.iconset/
